@@ -32,7 +32,7 @@ This project is a machine learning model designed to train a convolutional neura
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Younes-Toumi/concrete-crack-detection.git
+git clone https://github.com/DEVELOPER-DEEVEN/concrete-crack-detection.git
 cd concrete-crack-detection
 ```
 
@@ -98,16 +98,3 @@ Preprocessing example:
 </p>
 
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📝 Acknowledgments
-
-[1] Özgenel, Çağlar Fırat (2019), “Concrete Crack Images for Classification”, Mendeley Data, V2, doi: 10.17632/5y9wdsg2zt.2
-
-[2] Golding, V.P., Gharineiat, Z., Munawar, H.S., Ullah, F. (2022): Crack Detection in Concrete Structures Using Deep Learning. Sustainability, 14, 8117. https://doi.org/10.3390/su14138117. 
-
-[3] Özgenel, Ç.F., Gönenç Sorguç, A. (2018): Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings, ISARC 2018, Berlin.
-
-[4] Lei Z. , Fan Y. , Yimin D. Z., and Y. J. Z., Zhang, L., Yang, F., Zhang, Y. D., & Zhu, Y. J. (2016): Road Crack Detection Using Deep Convolutional Neural Network. IEEE International Conference on Image Processing (ICIP). http://doi.org/10.1109/ICIP.2016.7533052.
